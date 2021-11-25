@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">mvi</string>
+    <string name="a_count">a</string>
+    <string name="b_count">b</string>
+    <string name="c_count">c</string>
+    <string name="equality">=</string>
+    <string name="plus">+</string>
+</resources>
